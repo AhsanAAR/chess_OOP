@@ -1,0 +1,2 @@
+D:\GITHUB\chess_OOP\Debug\bgi.exe
+D:\GITHUB\chess_OOP\Debug\bgi.pdb

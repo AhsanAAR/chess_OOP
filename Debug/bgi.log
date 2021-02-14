@@ -1,0 +1,3 @@
+﻿  Game.cpp
+D:\GITHUB\chess_OOP\Game.h(44,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  bgi.vcxproj -> D:\GITHUB\chess_OOP\Debug\bgi.exe
